@@ -116,7 +116,133 @@ namespace ConsoleApp1
 
 
 
+//محاسبه ی مجموع اعداد بین 2 عدد
+            //int sum = 0;
+            //int a = int.Parse(Console.ReadLine());
+            //int b = int.Parse(Console.ReadLine());
+            //for (int i = 1; i <= b; i++)//به جای 1و2 میشه از a,b استفاده کرد
+            //    sum += i;
+            //Console.WriteLine("sum=" + sum);
+            //Console.ReadKey();
 
+
+            //چاپ تعداد اعداد زوج در خروجی
+            //int tedadzoj = 0, i;
+            //int n = int.Parse(Console.ReadLine());
+            //int m = int.Parse(Console.ReadLine());
+            //for (i = n; i <= m; i++)
+            //{
+            //    if (i % 2 == 0)
+
+
+            //    {
+
+
+            //        tedadzoj++;
+            //    }
+            //}
+            //Console.WriteLine("tedad zoj=" + tedadzoj);
+
+
+
+
+
+
+
+            //حساب تعداد اعداد فرد بین 2 عدد
+            //int tf = 0, i;
+            //int n = int.Parse(Console.ReadLine());
+            //int m = int.Parse(Console.ReadLine());
+            //for (i = n; i <= m; i++)
+            //{
+            //    if (i % 2 == 0)
+            //    {
+
+            //    }
+            //    else
+            //    {
+
+            //        tf++;
+            //    }
+            //}
+            //Console.WriteLine("tedadfard=" + tf);
+
+
+
+
+            //تشخیص اینکه ایا عدد ورودی اول هست یا ن
+            //int b = 1, i = 0;
+            //int a = int.Parse(Console.ReadLine());
+            //while (b <= a)
+            //{
+            //    if (a % b == 0)
+            //        i++;
+            //    b++;
+            //}
+            //if (i == 2)
+            //    Console.WriteLine("adadavvalast");
+            //else
+            //    Console.WriteLine("adadavalnist");
+
+
+
+
+
+            //تشخیص عدد کامل
+            //int b = 6; int c = 28;int d = 496;int e = 8128;
+            //int a= int.Parse(Console.ReadLine());
+            //if (a == b)
+            //    Console.WriteLine("adadkamelast");
+            //if (a == c)
+            //    Console.WriteLine("adadkamelast");
+            //if (a == d)
+            //    Console.WriteLine("adadkamelast");
+            //if (a == e)
+            //    Console.WriteLine("adadkamelast");
+
+            //else
+            //    if(a!=b)
+            //    if (a != c)
+            //        if (a != d)
+            //            if (a != e)
+            //                Console.WriteLine("adadkamelnist");
+
+
+            //حساب ب.م.م 2 عدد
+            //int a, b, c;
+            //a = int.Parse(Console.ReadLine());
+            //b = int.Parse(Console.ReadLine());
+            //while (b != 0)
+            //{
+            //    c = a % b;
+            //    if (c == 0)
+            //        Console.WriteLine("b.m.m" + b);
+            //    else
+            //        a = b;
+            //    b = c;
+            //}
+
+
+
+            //دادن n عدد به برنامه و چاپ کردن بزرگترینش با دادن -1
+            //int a, max;
+            //a = int.Parse(Console.ReadLine());
+            //max = a;
+            //while( a != -1)
+            //{
+            //    a = int.Parse(Console.ReadLine());
+            //    if (a > max)
+            //        max = a;
+
+            //}
+            //Console.WriteLine("max=" + max);
+
+
+
+
+
+
+            
 
 
 
